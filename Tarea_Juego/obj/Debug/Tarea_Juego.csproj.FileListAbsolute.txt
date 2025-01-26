@@ -1,0 +1,7 @@
+C:\Users\chris\Desktop\ITLA\C6\Programacion-Paralela\Tarea_Juego\Tarea_Juego\bin\Debug\Tarea_Juego.exe.config
+C:\Users\chris\Desktop\ITLA\C6\Programacion-Paralela\Tarea_Juego\Tarea_Juego\bin\Debug\Tarea_Juego.exe
+C:\Users\chris\Desktop\ITLA\C6\Programacion-Paralela\Tarea_Juego\Tarea_Juego\bin\Debug\Tarea_Juego.pdb
+C:\Users\chris\Desktop\ITLA\C6\Programacion-Paralela\Tarea_Juego\Tarea_Juego\obj\Debug\Tarea_Juego.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\ITLA\C6\Programacion-Paralela\Tarea_Juego\Tarea_Juego\obj\Debug\Tarea_Juego.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\ITLA\C6\Programacion-Paralela\Tarea_Juego\Tarea_Juego\obj\Debug\Tarea_Juego.exe
+C:\Users\chris\Desktop\ITLA\C6\Programacion-Paralela\Tarea_Juego\Tarea_Juego\obj\Debug\Tarea_Juego.pdb
